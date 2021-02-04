@@ -1,0 +1,42 @@
+h1 {
+	font-size: 200%;
+	color: white;
+	background-color: #6E6E6E;
+	font-family:"Century Gothic";
+}
+
+h2 {
+	font-size: 150%;
+	color: black;
+}
+
+h3 {
+	font-size: 150%;
+	color: black;
+}
+
+h7 {
+	font-size: 150%;
+	color: black;
+}
+
+#p01 {
+	font-family: "Lucida Console";
+	text-indent: 20px;
+	margin-left: 10px;
+	font-size: 100%;
+}
+
+#p02 {
+	font-family: "Lucida Console";
+	text-indent: 20px;
+	margin-left: 10px;
+}
+
+#p03 {
+	font-family: "Lucida Console";
+	text-indent: 20px;
+	margin-left: 10px;
+}
+
+
