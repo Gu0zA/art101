@@ -1,0 +1,20 @@
+h1 {
+	font-size: 200%;
+	color: white;
+	background-color: #6E6E6E;
+	font-family:"Courier New";
+	margin-left:-10px;
+}
+
+h2 {
+	font-size: 150%;
+	color: black;
+	font-family:"Century Gothic";
+}
+
+p {
+	font-family: "Lucida Console";
+	text-indent: 20px;
+	margin-left: 10px;
+	font-size: 100%;
+}
