@@ -1,0 +1,22 @@
+h1 {
+	font-size: 200%;
+	color: white;
+	font-style: italic;
+}
+
+p {
+	font-family: "Lucida Console";
+	text-indent: 80px;
+	margin-left: 10px;
+	color:white;
+}
+
+#content {
+	background-color: #DB7093;
+	width: 700px;
+	min-height: 500px;
+	padding: 20px;
+	margin: 10px
+	border: solid 10px #444444;
+	font-size: 20px;
+}
